@@ -1,2 +1,3 @@
-# achiever-wordpress-theme
-Custom Block Theme
+# Achiever Theme
+
+Custom starter block theme for Wordpress
